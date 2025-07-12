@@ -22,7 +22,7 @@ To begin, I implemented input validation to ensure that the ticket quantity ente
 
 If the requested quantity exceeded the number of tickets available, the system would block the transaction and optionally provide a message indicating insufficient availability. If the request was valid, the script would deduct the purchased amount from the total and immediately update the interface to reflect the new number of tickets remaining.
 
-This interaction required direct manipulation of DOM elements, allowing for real-time visual updates without the need to reload the page. The purchase logic was implemented in a way that maintained consistency across different stages, ensuring that each operated independently with accurate data tracking.
+The purchase logic was implemented in a way that maintained consistency across different stages, ensuring that each operated independently with accurate data tracking.
 
 Through this project, I deepened my understanding of how JavaScript can be used to manage dynamic datasets in a front-end environment, including input validation, state management, and DOM synchronization. The challenge lay not only in ensuring that the application was functionally correct but also in making sure it provided intuitive, immediate feedback to the user.
 
