@@ -24,7 +24,7 @@ If the requested quantity exceeded the number of tickets available, the system w
 
 The purchase logic was implemented in a way that maintained consistency across different stages, ensuring that each operated independently with accurate data tracking.
 
-Through this project, I deepened my understanding of how JavaScript can be used to manage dynamic datasets in a front-end environment, including input validation, state management, and DOM synchronization. The challenge lay not only in ensuring that the application was functionally correct but also in making sure it provided intuitive, immediate feedback to the user.
+Through this project, I deepened my understanding of how JavaScript can be used to manage dynamic datasets in a front-end environment, including input validation, state management. The challenge lay not only in ensuring that the application was functionally correct but also in making sure it provided intuitive, immediate feedback to the user.
 
 More broadly, the project simulated a simplified version of real-world inventory control systems used in e-commerce and ticketing platforms. It provided me with valuable experience in applying JavaScript to enforce business rules, manage available resources, and enhance user interaction through responsive and interactive interface behavior.
 
